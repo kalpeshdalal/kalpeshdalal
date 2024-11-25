@@ -114,6 +114,6 @@
 
 [<img align="left" alt="Kalpesh | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 
-[website]: [https://google.com](https://kalpeshdalal.github.io/kalpesh-dalal/)
+[website]: https://kalpeshdalal.github.io/kalpesh-dalal/
 [linkedin]: https://www.linkedin.com/in/kalpesh-dalal-2a4557208/
 [instagram]: https://www.instagram.com/kalpesh_jain.10
