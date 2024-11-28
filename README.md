@@ -73,35 +73,11 @@
     <a href="https://jestjs.io" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="selenium" width="40" height="40" Title="Jest"/> </a>&nbsp;&nbsp;
     <a href="https://mochajs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" alt="mocha" width="40" height="40" Title="Mocha"/> </a>&nbsp;&nbsp;
 
-- Software
 
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" Title="Adobe Illustrator"/> </a>&nbsp;&nbsp;
-    <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="photoshop" width="40" height="40" Title="Adobe Photoshop"/> </a>&nbsp;&nbsp;
-    <a href="https://www.adobe.com/in/products/aftereffects/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" alt="after-effects" width="40" height="40" Title="Adobe After Effects"/> </a>&nbsp;&nbsp;
-    <a href="https://www.blender.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="blender" width="40" height="40" Title="Blender"/> </a>&nbsp;&nbsp;
-    <a href="https://www.mathworks.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40" Title="MATLAB"/> </a>&nbsp;&nbsp;
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" Title="Postman"/> </a> 
 
-- Operating Systems
 
-    <a href="https://www.microsoft.com/en-in/windows" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40" Title="Microsoft Windows"/> </a>&nbsp;&nbsp;
-    <a href="https://linuxmint.com/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/linux-mint.png" alt="linux-mint" width="40" height="40" Title="Linux Mint"/> </a>&nbsp;&nbsp;
-    <a href="https://www.kali.org/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/kali-linux.png" alt="kali-linux" width="40" height="40" Title="Kali Linux"/> </a>&nbsp;&nbsp;
-    <a href="https://getfedora.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" alt="fedora" width="40" height="40" Title="Fedora"/> </a>&nbsp;&nbsp;
-    <a href="https://www.redhat.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" alt="redhat" width="40" height="40" Title="RedHat"/> </a>&nbsp;&nbsp;
-    <a href="https://ubuntu.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40" Title="Ubuntu"/> </a>
 
-- Music platforms
 
-    <a href="https://www.spotify.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg" alt="spotify" width="40" height="40" Title="Spotify"/> </a>&nbsp;&nbsp;
-    <a href="https://music.youtube.com/" target="_blank"> <img src="https://img.icons8.com/color/96/000000/youtube-music.png" alt="youtube-music" width="40" height="40" Title="YouTube Music"/> </a>
-
-- Others
-
-    <a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40" Title="Linux"/> </a>&nbsp;&nbsp;
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40" Title="Git"/> </a> &nbsp;&nbsp;
-    <a href="https://github.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" Title="GitHub"/> </a>&nbsp;&nbsp;
-    <a href="https://gitlab.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40" Title="GitLab"/> </a>
 
 
 
